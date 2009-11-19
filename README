@@ -2,7 +2,7 @@ $Id$
 
 This software was created to test AES implementation before we plug into the
 Contiki OS (http://www.sics.se/contiki/) for a 3rd year project at UCL Computer
-Science. The majority part of AES was brought from the Internet and we added
+Science. The AES implementation itself was brought from the Internet and we added
 minor feature to validate the implementation.
 
 Therefore, this is nothing novel but we endeavoured to package AES
